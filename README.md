@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm Franco Jara, frontend developer. I work with React and I love new challenges!
+I'm Franco Jara, front-end developer. I work with React and I love new challenges!
 
-I'm currenly working on Wordpress, but I'm looking for jobs with React, because I love it.
+I'm currently working on Wordpress, but I'm looking for jobs with React, because I love it.
 Nowadays I'm in Alkemy, doing an acceleration, where I'm learning some practices, doing a project and working in teams!
 
 #### My values 🌟
 
 - Responsibility
 - Always I want to learn something new
-- Commitment with the project
+- Commitment to the project
 
 #### My skills
 
