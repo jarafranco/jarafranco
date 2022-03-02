@@ -1,5 +1,35 @@
 ### Hi there 👋
 
+I'm Franco Jara, frontend developer. I work with React and I love new challenges!
+
+I'm currenly working on Wordpress, but I'm looking for jobs with React, because I love it.
+Nowadays I'm in Alkemy, doing an acceleration, where I'm learning some practices, doing a project and working in teams!
+
+### My values 🌟
+
+- Responsabilty
+- Always I want to learn something new
+- Commitment with the project
+
+### My skills
+
+- React
+- Redux
+- Bootstrap
+- Material UI
+- Sass
+- Javascript ES6
+
+### Languages
+
+- Spanish (Native)
+- English (A2)
+- Italian (B1)
+
+### Contact Me! 💻
+
+The best way to get touch with me is mail: jarafranco122@gmail.com
+
 <!--
 **Franco-19/Franco-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
