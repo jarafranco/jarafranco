@@ -2,8 +2,7 @@
 
 I'm Franco Jara, front-end developer. I work with React and I love new challenges!
 
-I'm currently working on Wordpress, but I'm looking for jobs with React, because I love it.
-Nowadays I'm in Alkemy, doing an acceleration, where I'm learning some practices, doing a project and working in teams!
+I'm currently working on Wordpress, but I'm looking for jobs with React, because I love it and I want new challenges.
 
 #### My values 🌟
 
@@ -19,6 +18,10 @@ Nowadays I'm in Alkemy, doing an acceleration, where I'm learning some practices
 - Material UI
 - Sass
 - Javascript ES6
+- Typescript
+- PHP
+- Wordpress
+- Prestashop
 
 #### Languages
 
