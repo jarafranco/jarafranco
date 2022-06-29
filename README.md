@@ -26,7 +26,7 @@ I'm currently working on Wordpress, but I'm looking for jobs with React, because
 #### Languages
 
 - Spanish (Native)
-- English (A2)
+- English (B1)
 - Italian (B1)
 
 ### Contact Me! 💻
