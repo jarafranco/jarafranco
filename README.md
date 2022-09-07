@@ -17,17 +17,18 @@ I'm currently working on Wordpress, but I'm looking for jobs with React, because
 - Bootstrap
 - Material UI
 - Sass
-- Javascript ES6
+- Javascript ES6+
 - Typescript
 - PHP
 - Wordpress
 - Prestashop
+- Laravel
+- PostgreSQL
 
 #### Languages
 
 - Spanish (Native)
 - English (B1)
-- Italian (B1)
 
 ### Contact Me! 💻
 
