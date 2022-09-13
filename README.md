@@ -2,16 +2,12 @@
 
 I'm Franco Jara, front-end developer. I work with React and I love new challenges!
 
-I'm currently working on Wordpress, but I'm looking for jobs with React, because I love it and I want new challenges.
-
-#### My values 🌟
-
-- Responsibility
-- Always I want to learn something new
-- Commitment to the project
+I'm currently working on Laravel at easytechgreen. 
+-- Open to freelance fullstack projects with Laravel and React, but also to learn new technologies --
 
 #### My skills
 
+- Laravel
 - React
 - Redux
 - Bootstrap
@@ -22,7 +18,6 @@ I'm currently working on Wordpress, but I'm looking for jobs with React, because
 - PHP
 - Wordpress
 - Prestashop
-- Laravel
 - PostgreSQL
 
 #### Languages
