@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Franco Jara, front-end developer. I work with React and I love new challenges!
+I'm Franco Jara, Back-end developer. I work with Laravel and I love new challenges!
 
-I'm currently working on Laravel at easytechgreen. 
+I'm currently working with Laravel, Drupal and PHP at easytechgreen. 
 -- Open to freelance fullstack projects with Laravel and React, but also to learn new technologies --
 
 #### My skills
