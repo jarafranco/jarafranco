@@ -1,24 +1,20 @@
 ### Hi there 👋
 
-I'm Franco Jara, Back-end developer. I work with Laravel and I love new challenges!
+I'm Franco Jara, Back-end developer. I love new challenges and staying up to day with tech news.
 
 I'm currently working with Laravel, Drupal and PHP at easytechgreen. 
--- Open to freelance fullstack projects with Laravel and React, but also to learn new technologies --
+-- Open to freelance fullstack projects with Laravel and React or NextJS, but also to learn new technologies --
 
-#### My skills
+#### Hard skills
 
-- Laravel
-- React
-- Redux
-- Bootstrap
-- Material UI
-- Sass
-- Javascript ES6+
-- Typescript
+- Laravel (And ecosystem, like Nova or Livewire)
 - PHP
-- Wordpress
+- SQL (PostgreSQL or MySQL)
 - Prestashop
-- PostgreSQL
+- Drupal
+- Javascript
+- React
+- NextJS
 
 #### Languages
 
@@ -27,19 +23,4 @@ I'm currently working with Laravel, Drupal and PHP at easytechgreen.
 
 ### Contact Me! 💻
 
-The best way to get touch with me is mail: jarafranco122@gmail.com
-
-<!--
-**Franco-19/Franco-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The best way to get in touch with me is via mail: jarafranco122@gmail.com
